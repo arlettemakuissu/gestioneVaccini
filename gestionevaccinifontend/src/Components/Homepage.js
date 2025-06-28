@@ -16,7 +16,7 @@ const Homepage = () => {
   const [error, setError] = useState('');
   const navigate = useNavigate();
 
-  // Gestione del login
+
   const handleLoginSubmit = async (e) => {
     e.preventDefault();
     setError('');

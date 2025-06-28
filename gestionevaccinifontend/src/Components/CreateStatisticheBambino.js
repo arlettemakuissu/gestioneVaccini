@@ -9,7 +9,7 @@ import axios from "axios";
     try {
         await axios.post(`http://localhost:8081/api/statovaccinazione/${bambinoId}`);
         alert("Statistiche create con successo!");
-        if (onSuccess) onSuccess(); // Callback per aggiornare la vista
+        if (onSuccess) onSuccess(); 
       } catch (err) {
         console.error("Errore durante la creazione delle statistiche:", err);
         alert("Errore durante la creazione delle statistiche.");

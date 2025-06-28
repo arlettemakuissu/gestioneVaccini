@@ -8,6 +8,7 @@ import RegistrazioneUser from './Components/RegistrazioneUser';
 import AddVaccini from './Components/AddVaccini';
 
 
+
 function App() {
   return (
     <div>
@@ -20,6 +21,12 @@ function App() {
         <Route path="/addVaccini" element={<AddVaccini />} />
       </Routes>
     </div>
+
+
+
+    
+      
+    
   );
 }
 

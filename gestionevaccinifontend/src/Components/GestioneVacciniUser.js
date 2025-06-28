@@ -430,7 +430,6 @@ const [statoVaccinazione,setStatoVaccinazione] = useState([]);
     </div>
   );
 }
-  
+ export default GestioneVacciniUser;
 
 
-export default GestioneVacciniUser;
