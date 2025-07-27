@@ -1,6 +1,6 @@
 # 💉 Gestione Vaccini – Applicazione FullStack Java/React
 
-Applicazione web FullStack dedicata alla **gestione delle vaccinazioni pediatriche**: registrazione dei bambini, pianificazione degli appuntamenti, aggiornamento delle dosi vaccinali e gestione amministrativa.
+Applicazione web FullStack dedicata alla **gestione delle vaccinazioni pediatriche**: registrazione dei bambini, , aggiornamento delle dosi vaccinali e gestione amministrativa.
 
 ---
 
